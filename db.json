@@ -1,6 +1,6 @@
 {
-  "items": [{"name": "Umut", "surname": 'Öztunç', "no": '123123', "mail": 'masd'},
-            {"name": 'Ayşe', "surname": 'Kaya', "no": '123123', "mail": 'masd'},
-            {"name": 'Burak', "surname": 'Öz', "no": '12312563', "mail": 'uılhk'},
-             {"name": 'Murat', "surname": 'Çelik', "no": '67967', "mail": 'etytr'}]
+  "items": [{"name": "Umut", "surname": "Öztunç", "no": "123123", "mail": "masd"},
+            {"name": "Ayşe", "surname": "Kaya", "no": "123123", "mail": "masd"},
+            {"name": "Burak", "surname": "Öz", "no": "12312563", "mail": "uılhk"},
+             {"name": "Murat", "surname": "Çelik", "no": "67967", "mail": "etytr"}]
 }
